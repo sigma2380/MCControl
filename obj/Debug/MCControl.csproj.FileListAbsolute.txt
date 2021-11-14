@@ -1,0 +1,13 @@
+C:\Users\ScottSeifert\source\repos\MCControl\bin\Debug\MCControl.exe.config
+C:\Users\ScottSeifert\source\repos\MCControl\bin\Debug\MCControl.exe
+C:\Users\ScottSeifert\source\repos\MCControl\bin\Debug\MCControl.pdb
+C:\Users\ScottSeifert\source\repos\MCControl\bin\Debug\Renci.SshNet.dll
+C:\Users\ScottSeifert\source\repos\MCControl\bin\Debug\Renci.SshNet.xml
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.Properties.Resources.resources
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.csproj.GenerateResource.cache
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.csproj.CopyComplete
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.exe
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.pdb
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.Form1.resources
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.csproj.AssemblyReference.cache
+C:\Users\ScottSeifert\source\repos\MCControl\obj\Debug\MCControl.csproj.CoreCompileInputs.cache
